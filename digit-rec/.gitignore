@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+venv/
+env/
+digit-rec/
+.digit-rec/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data / Models
+*.pt
+*.pth
+*.h5
+data/
